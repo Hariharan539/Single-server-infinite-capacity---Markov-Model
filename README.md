@@ -1,7 +1,8 @@
 ```
 Developed by : V.HARIHARAN
 Reg No : 212224220032
-Date : 24/05/2025
+Deparment:IT
+Date : 04/04/2025
 ```
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
